@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IShellLinkJikken", "IShellLinkJikken\IShellLinkJikken.vcxproj", "{F63D92A2-AD86-4456-9485-3EAB9C9CE968}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ISensorManagerJikken", "ISensorManagerJikken\ISensorManagerJikken.vcxproj", "{67673786-93B4-465D-A0C7-8FE5D3A8FF33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISensorManagerCs", "ISensorManagerCs\ISensorManagerCs.csproj", "{309002E7-4F51-4470-B303-7CBE2687BA2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jikken", "Jikken\Jikken.csproj", "{984ED1C5-E05A-478D-9AE9-F5D789290D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63D92A2-AD86-4456-9485-3EAB9C9CE968}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{F63D92A2-AD86-4456-9485-3EAB9C9CE968}.Debug|Any CPU.Build.0 = Debug|x64
+		{F63D92A2-AD86-4456-9485-3EAB9C9CE968}.Debug|x64.ActiveCfg = Debug|x64
+		{F63D92A2-AD86-4456-9485-3EAB9C9CE968}.Debug|x64.Build.0 = Debug|x64
+		{F63D92A2-AD86-4456-9485-3EAB9C9CE968}.Release|Any CPU.ActiveCfg = Release|x64
+		{F63D92A2-AD86-4456-9485-3EAB9C9CE968}.Release|Any CPU.Build.0 = Release|x64
+		{F63D92A2-AD86-4456-9485-3EAB9C9CE968}.Release|x64.ActiveCfg = Release|x64
+		{F63D92A2-AD86-4456-9485-3EAB9C9CE968}.Release|x64.Build.0 = Release|x64
+		{67673786-93B4-465D-A0C7-8FE5D3A8FF33}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{67673786-93B4-465D-A0C7-8FE5D3A8FF33}.Debug|Any CPU.Build.0 = Debug|x64
+		{67673786-93B4-465D-A0C7-8FE5D3A8FF33}.Debug|x64.ActiveCfg = Debug|x64
+		{67673786-93B4-465D-A0C7-8FE5D3A8FF33}.Debug|x64.Build.0 = Debug|x64
+		{67673786-93B4-465D-A0C7-8FE5D3A8FF33}.Release|Any CPU.ActiveCfg = Release|x64
+		{67673786-93B4-465D-A0C7-8FE5D3A8FF33}.Release|Any CPU.Build.0 = Release|x64
+		{67673786-93B4-465D-A0C7-8FE5D3A8FF33}.Release|x64.ActiveCfg = Release|x64
+		{67673786-93B4-465D-A0C7-8FE5D3A8FF33}.Release|x64.Build.0 = Release|x64
+		{309002E7-4F51-4470-B303-7CBE2687BA2D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{309002E7-4F51-4470-B303-7CBE2687BA2D}.Debug|Any CPU.Build.0 = Debug|x64
+		{309002E7-4F51-4470-B303-7CBE2687BA2D}.Debug|x64.ActiveCfg = Debug|x64
+		{309002E7-4F51-4470-B303-7CBE2687BA2D}.Debug|x64.Build.0 = Debug|x64
+		{309002E7-4F51-4470-B303-7CBE2687BA2D}.Release|Any CPU.ActiveCfg = Release|x64
+		{309002E7-4F51-4470-B303-7CBE2687BA2D}.Release|Any CPU.Build.0 = Release|x64
+		{309002E7-4F51-4470-B303-7CBE2687BA2D}.Release|x64.ActiveCfg = Release|x64
+		{984ED1C5-E05A-478D-9AE9-F5D789290D7B}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{984ED1C5-E05A-478D-9AE9-F5D789290D7B}.Debug|x64.ActiveCfg = Debug|x64
+		{984ED1C5-E05A-478D-9AE9-F5D789290D7B}.Debug|x64.Build.0 = Debug|x64
+		{984ED1C5-E05A-478D-9AE9-F5D789290D7B}.Release|Any CPU.ActiveCfg = Release|x64
+		{984ED1C5-E05A-478D-9AE9-F5D789290D7B}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5400E497-3FD2-4741-B46E-8D05E9AF5CA7}
+	EndGlobalSection
+EndGlobal

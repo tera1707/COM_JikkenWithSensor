@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Jikken": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "remoteDebugMachine": "192.168.111.111"
+    }
+  }
+}
